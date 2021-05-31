@@ -5,6 +5,9 @@
 
 **Bias handling for bio-medical cohorts.**
 
+</div>
+
+
 ---
 
 ## PathoBias aims to ease bias detection and mitigation for bio-medical datasets.
