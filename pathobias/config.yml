@@ -1,0 +1,11 @@
+file: /Users/pilar/Desktop/THESIS/PROJECT_CLAURENT/slides_lymphopath.csv
+tasks:
+  - GC/Non GC
+bias_source:
+  - Folder
+  - Ext
+  - Source
+  - Type
+  - N_patches
+outfolder: /Users/pilar/Desktop/THESIS/PROJECT_CLAURENT/
+format: .pdf
